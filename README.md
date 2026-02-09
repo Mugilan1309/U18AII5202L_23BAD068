@@ -10,13 +10,22 @@ The repository is organized by experiment number:
     * Focus: Academic performance analysis using fundamental charts (Bar, Line, Pie).
 * **Experiment 2:** Advanced Data Visualization Techniques
     * Focus: E-commerce transaction analysis using distribution and variability plots (Histogram, Boxplot, Heatmap).
+* **Experiment 3:** Multivariate Analysis
+    * Focus: Health indicators analysis using Pair Plots.
+* **Experiment 4:** Traffic Accident Analysis
+    * Focus: Accident severity and frequency analysis using Bubble Charts.
+* **Experiment 5:** Power BI Visualization
+    * Focus: Interactive dashboard creation for student performance data.
+* **Experiment 6:** High-Dimensional Data Visualization
+    * Focus: Retail analytics using Parallel Coordinates and Trellis Displays.
 
 ## Prerequisites
-The experiments are implemented using R. The following software and libraries are required:
+The experiments are implemented using R and Power BI. The following software and libraries are required:
 
 * **R Programming Language** (Version 4.0 or higher)
 * **RStudio Desktop**
-* **Required Libraries:** `ggplot2`, `dplyr`, `tidyr`, `lubridate`
+* **Microsoft Power BI Desktop** (For Experiment 5)
+* **Required Libraries:** `ggplot2`, `dplyr`, `tidyr`, `lubridate`, `GGally`, `RColorBrewer`
 
 ## Usage
 Each experiment directory contains:
