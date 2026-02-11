@@ -18,6 +18,8 @@ The repository is organized by experiment number:
     * Focus: Interactive dashboard creation for student performance data.
 * **Experiment 6:** High-Dimensional Data Visualization
     * Focus: Retail analytics using Parallel Coordinates and Trellis Displays.
+* **Experiment 7:** Handling Overplotting
+    * Focus: Social media analysis using Alpha Blending, Jittering, and Density Heatmaps.
 
 ## Prerequisites
 The experiments are implemented using R and Power BI. The following software and libraries are required:
@@ -25,7 +27,7 @@ The experiments are implemented using R and Power BI. The following software and
 * **R Programming Language** (Version 4.0 or higher)
 * **RStudio Desktop**
 * **Microsoft Power BI Desktop** (For Experiment 5)
-* **Required Libraries:** `ggplot2`, `dplyr`, `tidyr`, `lubridate`, `GGally`, `RColorBrewer`
+* **Required Libraries:** `ggplot2`, `dplyr`, `tidyr`, `lubridate`, `GGally`, `RColorBrewer`, `scales`
 
 ## Usage
 Each experiment directory contains:
